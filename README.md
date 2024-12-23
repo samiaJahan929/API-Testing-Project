@@ -25,9 +25,9 @@ DMoney is a transactional system that allows users to send money, make payments,
 
 # User Documentation
 For more detailed information, please visit the following links:
-- [API Documentation](https://documenter.getpostman.com/view/31249969/2sAYBYeV1E)
-- [Test Case Writting](https://docs.google.com/spreadsheets/d/1rUw4h8KnDtcwhInxqn0V3o-VzKlOzxoG/edit?usp=sharing&ouid=101261480016291433708&rtpof=true&sd=true)
-- [Bug Reporting](https://docs.google.com/spreadsheets/d/1KOtArOTttPl18baEWWgh7EC8LjG0bCM3/edit?usp=sharing&ouid=101261480016291433708&rtpof=true&sd=true)
+- [Dmoney API Documentation](https://documenter.getpostman.com/view/31249969/2sAYBYeV1E)
+- [Dmoney API Test Case Writting](https://docs.google.com/spreadsheets/d/1rUw4h8KnDtcwhInxqn0V3o-VzKlOzxoG/edit?usp=sharing&ouid=101261480016291433708&rtpof=true&sd=true)
+- [Dmoney API Bug Report](https://docs.google.com/spreadsheets/d/1KOtArOTttPl18baEWWgh7EC8LjG0bCM3/edit?usp=sharing&ouid=101261480016291433708&rtpof=true&sd=true)
 
 # Newman Report 
 - **Report Summary**
