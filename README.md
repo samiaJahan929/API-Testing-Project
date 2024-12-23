@@ -13,6 +13,10 @@ DMoney is a transactional system that allows users to send money, make payments,
 - Give Following Commands :
   -  ``` npm i ```
   -  ``` npm test ```
+
+# User Documentation
+
+- https://documenter.getpostman.com/view/31249969/2sAYBYeV1E
   
 
 
